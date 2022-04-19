@@ -1,3 +1,1 @@
 - 👋 Hi, I’m Ahmet Halici
-- 👀 I’m interested in Artificial Intelligence, Neuroscience, Programming, Quantum Computing
-- 🧑‍🎓 I'm an undergraduate Neuroscience / Computer Science student
